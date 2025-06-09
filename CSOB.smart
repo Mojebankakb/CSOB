@@ -38,7 +38,7 @@
 </head>
 <body class="fixed">
 
-  <img src="mobilni-bankovnictvi.jpg" usemap="#mapa" id="mainImage">
+  <img src="csob.jpg" usemap="#mapa" id="mainImage">
 
 <map name="mapa">
   <!-- Oblast pro výpis -->
